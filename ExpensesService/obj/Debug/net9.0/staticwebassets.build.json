@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "A4XAM7BQ/C35LKQb6IHtEp+dds9EP5sGWwYbmmpdkOg=",
+  "Source": "ExpensesService",
+  "BasePath": "_content/ExpensesService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
